@@ -1,1 +1,1 @@
-# StockMarket-Predictor
+# Stock-Market-Predictor
